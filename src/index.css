@@ -1,0 +1,25 @@
+@import "reset.css";
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input{
+  font-family: 'Montserrat', sans-serif;
+}
+
+input::-webkit-input-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
+
+input:-moz-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
